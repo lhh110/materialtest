@@ -1,5 +1,6 @@
 package com.example.materialtest;
 
+// 水果类，还是挺不错的
 public class Fruit {
     private String name;
     private int imageId;
